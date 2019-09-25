@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Josephus",
+            "request": "launch",
+            "mainClass": "Josephus"
+        }
+    ]
+}

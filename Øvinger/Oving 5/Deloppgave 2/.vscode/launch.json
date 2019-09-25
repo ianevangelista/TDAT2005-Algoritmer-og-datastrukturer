@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashTabell",
+            "request": "launch",
+            "mainClass": "HashTabell"
+        }
+    ]
+}
