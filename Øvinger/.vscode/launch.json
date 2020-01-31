@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Øvinger_e786b049"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LesTegn",
             "request": "launch",
             "mainClass": "LesTegn"

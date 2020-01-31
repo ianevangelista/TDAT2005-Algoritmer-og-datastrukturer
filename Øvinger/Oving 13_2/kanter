@@ -1,0 +1,24 @@
+<?
+include("design.php");
+createdesign("404 Not Found","aitel");
+?>
+
+<H2>Finner ikke siden</H2>
+<p>Du har spurt etter en side som ikke eksisterer i NTNU IDI AIT sin web.
+<br>Dette kan skyldes at bokmerket eller linken du klikket p&aring; ikke er oppdatert.</p>
+
+<p>For &aring; finne informasjonen du er p&aring; jakt etter kan du
+<ul>
+  <li><a href="http://www.ntnu.no/sok">S&oslash;ke i NTNUs websider</A>
+  <li>G&aring; til <A HREF="http://www.ntnu.no/idi/">IDI sin hovedside</A>
+  <li>Sende en foresp&oslash;rsel til <A HREF="mailto:webmaster@iie.ntnu.no">webmaster@iie.ntnu.no</A>
+</ul></p>
+
+
+<p><B>404 NOT FOUND</B><BR>
+The requested object does not exist on this server.
+The link you followed is either outdated or inaccurate.</p>
+
+<? finish("webmaster", "webmaster@iie.ntnu.no"); ?>
+<!-- 2015-10-28 AITeL til IIE. (mee) -->
+<!-- 2018-09-10 IIE til IDI. Mangler oppdatert webmasteradresse. (mee) -->

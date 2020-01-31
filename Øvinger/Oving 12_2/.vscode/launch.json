@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dekomprimering",
+            "request": "launch",
+            "mainClass": "Dekomprimering",
+            "projectName": "Oving12_2_586c4249"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Huffman",
+            "request": "launch",
+            "mainClass": "Huffman",
+            "projectName": "Oving12_2_586c4249"
+        }
+    ]
+}

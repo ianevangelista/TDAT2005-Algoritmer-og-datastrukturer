@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Komprimering",
+            "request": "launch",
+            "mainClass": "Komprimering"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - oving12",
+            "request": "launch",
+            "mainClass": "oving12"
+        }
+    ]
+}
